@@ -1,11 +1,8 @@
 /*
-** echo.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/builtin
-**
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-**
-** Started on  Wed May 17 13:12:00 2017 Varé Paul
-** Last update Sun May 21 17:07:34 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** echo
 */
 
 #include "mysh.h"

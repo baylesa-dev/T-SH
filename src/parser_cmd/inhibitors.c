@@ -1,11 +1,8 @@
 /*
-** inhibitors.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/parser_cmd
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Sat May 20 09:26:09 2017 Varé Paul
-** Last update Sat May 20 11:28:29 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** inhibitors
 */
 
 #include "mysh.h"

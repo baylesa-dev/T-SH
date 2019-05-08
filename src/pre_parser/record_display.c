@@ -1,11 +1,8 @@
 /*
-** record_display.c for record_display in /home/adrien.bayles/Epitech/PSU_2016_42sh/src/pre_parser
-** 
-** Made by Adrien Bayles
-** Login   <adrien.bayles@epitech.net>
-** 
-** Started on  Sun May 21 13:39:33 2017 Adrien Bayles
-** Last update Sun May 21 15:21:37 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** record_display
 */
 
 #include "preparser.h"

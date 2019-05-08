@@ -1,11 +1,8 @@
 /*
-** exec_command.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src
-**
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-**
-** Started on  Fri May  5 12:29:08 2017 Varé Paul
-** Last update Sun May 21 17:15:23 2017 Alexandre CAUSSADE
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** exec_command
 */
 
 #include "mysh.h"

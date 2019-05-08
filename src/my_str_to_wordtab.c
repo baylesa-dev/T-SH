@@ -1,11 +1,8 @@
 /*
-** my_str_to_wordtab.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Fri May  5 13:46:49 2017 Varé Paul
-** Last update Fri May  5 17:55:14 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** my_str_to_wordtab
 */
 
 #include "mysh.h"

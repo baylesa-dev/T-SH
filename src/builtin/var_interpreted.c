@@ -1,11 +1,8 @@
 /*
-** var_interpreted.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/builtin
-**
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-**
-** Started on  Fri May 19 11:08:50 2017 Varé Paul
-** Last update Sun May 21 17:16:30 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** var_interpreted
 */
 
 #include "mysh.h"

@@ -1,11 +1,8 @@
 /*
-** redirections_right.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/pipe
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Thu May 11 08:12:12 2017 Varé Paul
-** Last update Sun May 21 15:15:00 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** redirections_right
 */
 
 #include "mysh.h"

@@ -1,11 +1,8 @@
 /*
-** pipe.h for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/include
-**
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-**
-** Started on  Sun May  7 15:30:40 2017 Varé Paul
-** Last update Sun May 21 17:32:38 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** pipe
 */
 
 #ifndef PIPE_H

@@ -1,11 +1,8 @@
 /*
-** parser_binary_opt.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src
-**
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-**
-** Started on  Thu May  4 11:29:33 2017 Varé Paul
-** Last update Sun May  7 13:12:46 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** list_binary_opt
 */
 
 #include "mysh.h"

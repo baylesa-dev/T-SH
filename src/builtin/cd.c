@@ -1,11 +1,8 @@
 /*
-** cd.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/builtin
-**
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-**
-** Started on  Sat May  6 21:34:44 2017 Varé Paul
-** Last update Sun May 21 17:03:55 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** cd
 */
 
 #include "mysh.h"

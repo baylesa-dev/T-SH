@@ -1,11 +1,8 @@
 /*
-** unsetenv.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/builtin
-**
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-**
-** Started on  Sat May  6 21:26:31 2017 Varé Paul
-** Last update Sun May 21 17:16:23 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** unsetenv
 */
 
 #include "mysh.h"

@@ -1,11 +1,8 @@
 /*
-** my_varconcat.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/builtin
-**
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-**
-** Started on  Thu May 18 11:12:25 2017 Varé Paul
-** Last update Sun May 21 17:11:45 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** my_varconcat
 */
 
 #include "mysh.h"

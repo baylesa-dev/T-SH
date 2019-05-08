@@ -1,11 +1,8 @@
 /*
-** my.h for  in /home/paul.vare/ASM/lib
-**
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-**
-** Started on  Wed Apr 26 13:33:06 2017 Varé Paul
-** Last update Sun May 21 17:35:46 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** my
 */
 
 #ifndef MY_H

@@ -1,11 +1,8 @@
 /*
-** process_pipe.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/pipe
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Tue May 16 17:04:09 2017 Varé Paul
-** Last update Sun May 21 15:12:01 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** process_pipe
 */
 
 #include "mysh.h"

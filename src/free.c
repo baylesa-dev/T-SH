@@ -1,11 +1,8 @@
 /*
-** free.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Thu May  4 10:42:07 2017 Varé Paul
-** Last update Tue May  9 11:34:03 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** free
 */
 
 #include "mysh.h"

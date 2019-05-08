@@ -1,11 +1,8 @@
 /*
-** parser_cmd.h for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/include
-**
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-**
-** Started on  Fri May 19 15:29:53 2017 Varé Paul
-** Last update Sun May 21 17:32:54 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** parser_cmd
 */
 
 #ifndef PARSER_CMD_H

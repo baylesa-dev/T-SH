@@ -1,11 +1,8 @@
 /*
-** my_builting.c for my_builting in /home/alexcoss/PSU_semestre2/PSU_2016_42sh/src/where
-**
-** Made by Alexandre CAUSSADE
-** Login   <alexcoss@epitech.net>
-**
-** Started on  Thu May 18 14:22:35 2017 Alexandre CAUSSADE
-** Last update Sun May 21 17:17:32 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** where
 */
 
 #include "mysh.h"

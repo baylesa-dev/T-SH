@@ -1,11 +1,8 @@
 /*
-** parser_semi_colon.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Wed May  3 15:40:25 2017 Varé Paul
-** Last update Sun May 21 17:22:55 2017 Alexandre CAUSSADE
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** parser_semi_colon.c
 */
 
 #include "mysh.h"

@@ -1,11 +1,8 @@
 /*
-** get_path.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Fri May  5 18:50:34 2017 Varé Paul
-** Last update Sun May 21 17:18:45 2017 Alexandre CAUSSADE
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** get_path
 */
 
 #include "mysh.h"
