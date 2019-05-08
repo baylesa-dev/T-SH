@@ -1,11 +1,8 @@
 /*
-** cut_redirections.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/pipe
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Tue May 16 16:25:56 2017 Varé Paul
-** Last update Sun May 21 15:04:33 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** cut_redirections
 */
 
 #include "mysh.h"

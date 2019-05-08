@@ -1,11 +1,8 @@
 /*
-** my_tabconcat.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/parser_cmd
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Fri May 19 17:04:39 2017 Varé Paul
-** Last update Sun May 21 15:22:33 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** my_tabconcat
 */
 
 #include "mysh.h"

@@ -1,11 +1,8 @@
 /*
-** pipe_rw.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/pipe
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Wed May 10 14:44:05 2017 Varé Paul
-** Last update Sun May 21 15:11:01 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** pipe_rw
 */
 
 #include "mysh.h"

@@ -1,11 +1,8 @@
 /*
-** mysh.h for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/include
-**
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-**
-** Started on  Wed May  3 14:23:40 2017 Varé Paul
-** Last update Sun May 21 17:33:06 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** mysh
 */
 
 #ifndef MYSH_H

@@ -1,11 +1,8 @@
 /*
-** main.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Wed May  3 14:12:08 2017 Varé Paul
-** Last update Sun May 21 17:19:56 2017 Alexandre CAUSSADE
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** main
 */
 
 #include "mysh.h"

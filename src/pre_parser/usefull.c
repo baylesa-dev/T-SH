@@ -1,11 +1,8 @@
 /*
-** usefull.c for usefull in /home/adrien.bayles/Epitech/PSU_2016_42sh/src/pre_parser
-** 
-** Made by Adrien Bayles
-** Login   <adrien.bayles@epitech.net>
-** 
-** Started on  Sun May 21 13:40:02 2017 Adrien Bayles
-** Last update Sun May 21 13:40:03 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** usefull
 */
 
 #include "preparser.h"

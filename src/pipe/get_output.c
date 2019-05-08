@@ -1,11 +1,8 @@
 /*
-** get_output.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/pipe
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Tue May 16 16:38:49 2017 Varé Paul
-** Last update Sun May 21 15:07:07 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** get_output
 */
 
 #include "mysh.h"

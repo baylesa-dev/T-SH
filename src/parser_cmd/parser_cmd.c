@@ -1,11 +1,8 @@
 /*
-** parser_cmd.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/parser_cmd
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Fri May 19 15:03:37 2017 Varé Paul
-** Last update Sun May 21 11:31:40 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** parser_cmd
 */
 
 #include "mysh.h"

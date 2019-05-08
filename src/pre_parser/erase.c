@@ -1,11 +1,8 @@
 /*
-** erase.c for erase in /home/adrien.bayles/Epitech/PSU_2016_42sh/src/pre_parser
-** 
-** Made by Adrien Bayles
-** Login   <adrien.bayles@epitech.net>
-** 
-** Started on  Sun May 21 13:38:53 2017 Adrien Bayles
-** Last update Sun May 21 13:38:54 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** erase
 */
 
 #include "preparser.h"

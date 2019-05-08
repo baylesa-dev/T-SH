@@ -1,11 +1,8 @@
 /*
-** typedef.h for typedef in /home/adrnnc/Epitech/Semestre2/SHELL/dev/enfindev
-**
-** Made by Adrien Bayles
-** Login   <adrien.bayles@epitech.eu>
-**
-** Started on  Thu May 18 09:41:19 2017 Adrien Bayles
-** Last update Sun May 21 17:31:56 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** struct
 */
 
 #ifndef TYPEDEF_H

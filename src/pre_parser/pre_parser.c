@@ -1,11 +1,8 @@
 /*
-** pre_parser.c for pre_parser in /home/adrien.bayles/Epitech/PSU_2016_42sh/src/pre_parser
-** 
-** Made by Adrien Bayles
-** Login   <adrien.bayles@epitech.net>
-** 
-** Started on  Sun May 21 13:39:11 2017 Adrien Bayles
-** Last update Sun May 21 20:29:55 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** pre_parser
 */
 
 #include "preparser.h"

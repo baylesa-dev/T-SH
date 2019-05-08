@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "preparser.h": "c",
+        "stdlib.h": "c",
+        "wait.h": "c",
+        "mysh.h": "c"
+    }
+}

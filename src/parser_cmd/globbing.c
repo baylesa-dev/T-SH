@@ -1,11 +1,8 @@
 /*
-** globbing.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/parser_cmd
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Fri May 19 16:23:50 2017 Varé Paul
-** Last update Fri May 19 21:19:28 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** globbing
 */
 
 #include "mysh.h"

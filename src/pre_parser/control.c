@@ -1,11 +1,8 @@
 /*
-** control.c for control in /home/adrien.bayles/Epitech/PSU_2016_42sh/src/pre_parser
-** 
-** Made by Adrien Bayles
-** Login   <adrien.bayles@epitech.net>
-** 
-** Started on  Sun May 21 13:38:30 2017 Adrien Bayles
-** Last update Sun May 21 13:38:31 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** control
 */
 
 #include "preparser.h"

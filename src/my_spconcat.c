@@ -1,11 +1,8 @@
 /*
-** my_spconcat.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Fri May  5 22:10:24 2017 Varé Paul
-** Last update Sun May 21 17:20:38 2017 Alexandre CAUSSADE
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** my_spconcat
 */
 
 #include "mysh.h"

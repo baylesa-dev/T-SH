@@ -1,11 +1,8 @@
 /*
-** cursor.c for cursor in /home/adrien.bayles/Epitech/PSU_2016_42sh/src/pre_parser
-** 
-** Made by Adrien Bayles
-** Login   <adrien.bayles@epitech.net>
-** 
-** Started on  Sun May 21 13:38:43 2017 Adrien Bayles
-** Last update Sun May 21 14:01:56 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** cursor
 */
 
 #include "preparser.h"

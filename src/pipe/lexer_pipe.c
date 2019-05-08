@@ -1,11 +1,8 @@
 /*
-** lexer_pipe.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/pipe
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Wed May 10 14:35:11 2017 Varé Paul
-** Last update Tue May 16 13:31:49 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** lexer_pipe
 */
 
 #include "mysh.h"

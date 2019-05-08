@@ -1,11 +1,8 @@
 /*
-** preparser.h for pre_aprser in /home/adrnnc/Epitech/Semestre2/SHELL/dev/enfindev
-**
-** Made by Adrien Bayles
-** Login   <adrien.bayles@epitech.eu>
-**
-** Started on  Thu May 18 09:39:22 2017 Adrien Bayles
-** Last update Sun May 21 17:32:12 2017 Varé Paul
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** preparser
 */
 
 #ifndef PREPARSER_H

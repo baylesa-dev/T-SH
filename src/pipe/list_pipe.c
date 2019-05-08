@@ -1,11 +1,8 @@
 /*
-** list_pipe.c for  in /home/paul.vare/semestre2/PSU/PSU_2016_42sh/src/pipe
-** 
-** Made by Varé Paul
-** Login   <paul.vare@epitech.net>
-** 
-** Started on  Sun May  7 15:40:40 2017 Varé Paul
-** Last update Sun May 21 15:10:11 2017 Adrien Bayles
+** EPITECH PROJECT, 2017
+** T-SH
+** File description:
+** list_pipe
 */
 
 #include "mysh.h"
