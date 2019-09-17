@@ -4,3 +4,32 @@
     <h2 align="center">Unix Shell - ~> man tcsh</h2>
 </p>
 
+### Prerequisites
+
+> 🚨 **This program only work on Unix based operating systems.** 🚨
+
+**Install essentials build tools:**
+
+```
+sudo apt install build-essential
+```
+
+### Installation instructions
+
+**Clone repository:**
+
+```
+git clone https://github.com/baylesa-dev/T-SH.git && cd T-SH
+```
+
+**Compile sources:**
+
+```
+make
+```
+
+**Execute:**
+
+```
+./t-sh
+```
